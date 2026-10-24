@@ -73,7 +73,7 @@ Various full-stack projects built with React and Laravel as I work through real-
 
 ![Yacine's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ycnpy6&show_icons=true&theme=default&hide_border=true&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ycnpy6&layout=compact&theme=default&hide_border=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ycnpy6&layout=compact&theme=default&hide_border=true&show_private=true)
 
 </div>
 

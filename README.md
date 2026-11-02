@@ -78,3 +78,6 @@ Various full-stack projects built with React and Laravel as I work through real-
 </div>
 
 ---
+<p align="center">
+  <img src="assets/laptop-typing-cat.gif" alt="Cat at the Keyboard, animated ASCII art" width="720">
+</p>
